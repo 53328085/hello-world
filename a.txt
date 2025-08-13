@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a 本地的内容
+=======
+a 远程的内容
+>>>>>>> refs/remotes/origin/master
